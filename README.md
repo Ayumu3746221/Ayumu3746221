@@ -1,15 +1,12 @@
 ## 🙋‍♂️ 自己紹介
 
 Hello World!
-2024 年 6 月から web 開発を開始し、現在は「ネットワーク」に興味があります。
+2024 年 6 月から web 開発を開始しました。
 
 ## 🛠️ スキルスタック
 
-**言語 & フレームワーク:**
-
-- **Frontend:** React, Next.js, TypeScript
-- **Backend:** PHP (Laravel), FastAPI, Node.js
-- **Testing:** Vitest
+- **PHP** : Laravel
+- **Typescript** : Hono.js
 
 **開発実績:**
 
@@ -21,8 +18,8 @@ Hello World!
 
 お気軽にご連絡ください：
 
+- **Home Page:** [Ayumu Kukutsu](https://portfolio-9m6.pages.dev/)
 - **GitHub:** [Ayumu3746221](https://github.com/Ayumu3746221)
-- **Wantedly:** [Ayumu3746221](https://www.wantedly.com/id/ayumu_kukutsu)
 - **Issues & PRs:** コラボレーションや貢献を歓迎します
 
 ## 📝 Tech Blog
