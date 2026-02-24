@@ -11,7 +11,7 @@ Hello World!
 **開発実績:**
 
 - 独自フレームワーク → Laravel への移行開発（エキサイト株式会社インターン）
-- FastAPI を用いた Slack Bot の開発（大学学祭実行委員会）
+- Cloudflare + Hono.js を用いた Slack Bot の開発（大学学祭実行委員会）
 - vscode 拡張機能の「TypeView」の開発
 
 ## 📫 連絡先
