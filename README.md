@@ -18,7 +18,6 @@ Hello World!
 
 お気軽にご連絡ください：
 
-- **Home Page:** [Ayumu Kukutsu](https://portfolio-9m6.pages.dev/)
 - **GitHub:** [Ayumu3746221](https://github.com/Ayumu3746221)
 - **Issues & PRs:** コラボレーションや貢献を歓迎します
 
